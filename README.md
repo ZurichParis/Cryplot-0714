@@ -118,7 +118,7 @@ This is an educational project. Feel free to fork and experiment, but remember: 
 
 ## 📄 License
 
-This project is for educational purposes only. Use at your own risk.
+This project is made by DL LIU for educational purposes only. Use at your own risk.
 
 ---
 

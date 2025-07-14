@@ -239,7 +239,7 @@ app.layout = html.Div([
     
     # Footer
     html.Div([
-        html.P("Made for fun 🤩, not for financial advice! Dash & Plotly | Data from Yahoo Finance", 
+        html.P("Made for fun by DL LIU🤩, not for financial advice! Dash & Plotly | Data from Yahoo Finance", 
                style={
                    'textAlign': 'center',
                    'color': '#6c757d',
