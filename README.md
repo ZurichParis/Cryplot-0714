@@ -2,6 +2,8 @@
 
 A simple Bitcoin price prediction app built with Python and Dash, using linear regression to forecast future BTC prices.
 
+Check here for live demo: https://cryplot-0714.onrender.com/
+
 ## 📊 Features
 
 - historical Bitcoin data
