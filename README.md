@@ -37,7 +37,7 @@ In original price data, recent prices change looks more obvious than early perio
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/ZurichParis/Cryplot-0714.git
+git clone https://github.com/ZurichParis/cryplot-0714.git
 cd Cryplot-0714
 ```
 
