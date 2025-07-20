@@ -38,7 +38,7 @@ In original price data, recent prices change looks more obvious than early perio
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/ZurichParis/cryplot-0714.git
-cd Cryplot-0714
+cd cryplot-0714
 ```
 
 2. **Build the Docker image**:
@@ -58,8 +58,8 @@ Open your browser and navigate to `http://localhost:8050`
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/ZurichParis/Cryplot-0714.git
-cd Cryplot-0714
+git clone https://github.com/ZurichParis/cryplot-0714.git
+cd cryplot-0714
 ```
 
 2. **Create a virtual environment**:
